@@ -1,4 +1,4 @@
-# 01 -  Esquivar obtáculos. POC mbot2 abs
+# 01 -  Esquivar obtáculos. POC mbot2
 
 import mbuild, mbot2, event, time, cyberpi
 
